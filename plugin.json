@@ -1,0 +1,12 @@
+{
+    "ID":"D2D2C23B084D411DB66FE0C79D6C2A6H",   //Plugin ID，32 bit UUID
+    "ActionKeyword":"o",                     //Plugin default action keyword
+    "Name":"obsidian_wox",                              //Plugin name
+    "Description":"Obsidian Utility Functions",    //Plugin description
+    "Author":"sqred",                     //Plugin Author
+    "Version":"1.0.0",                         //Plugin version，must be x.x.x format
+    "Language":"python",                       //Plugin language，we support csharp,python and executable now
+    "Website":"https://github.com/sqred/obsidian_wox",         //Plugin website or author website
+    "IcoPath": "Images\\obsidian_logo.png",              //Plugin icon, relative path to the pluign folder
+    "ExecuteFileName":"obsidian_wox.py"   //Execution entry. Dll name for c# plugin, and python file for python plugin
+  }
